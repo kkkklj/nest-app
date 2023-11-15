@@ -10,7 +10,7 @@ export class DebugController {
           msg:'hello',
           code:200
         }) 
-      }, 5000);
+      }, 1000);
     }) 
   }
 }
